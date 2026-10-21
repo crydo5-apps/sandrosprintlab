@@ -1,0 +1,6 @@
+{
+  "name": "Sandros Print Labor",
+  "description": "Futuristisches 3D-Labor für Photogrammetrie-Modellierung, Creality CR-10S Pro Slicing und sicheren SD-Karten-Export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
